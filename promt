@@ -1,0 +1,81 @@
+Below is a **clean, copy-paste–ready prompt** you can use directly in **Blackbox AI** to generate **Utsav Zone** using **HTML, CSS, and JavaScript**.
+This prompt is structured so Blackbox understands **features, UI, and constraints** clearly and does not over-engineer.
+
+---
+
+### Blackbox Prompt (HTML / CSS / JavaScript)
+
+> Build a **responsive festival discovery web app called “Utsav Zone”** using **pure HTML, CSS, and vanilla JavaScript** (no frameworks).
+>
+> **Core idea:**
+> Utsav Zone helps users discover nearby festival pandals/events (starting with Durga Puja), view crowd status, routes, and important details.
+>
+> **Pages / Sections required:**
+>
+> 1. **Landing Page**
+>
+>    * App name: *Utsav Zone*
+>    * Tagline: *Discover festivals smarter*
+>    * “Explore Pandals” button
+> 2. **Explore Page**
+>
+>    * List of pandals in **card layout**
+>    * Each card shows:
+>
+>      * Pandal name
+>      * Area/location
+>      * Crowd status badge (Low / Medium / High)
+>      * Short description
+>    * Search bar to filter pandals by name or area
+> 3. **Pandal Detail Modal / Page**
+>
+>    * Full description
+>    * Crowd level indicator
+>    * Best visiting time
+>    * Route hint (text-based, no maps API)
+>
+> **UI / Design requirements:**
+>
+> * Minimal, modern UI
+> * Festival-inspired accent colors (red, gold, white)
+> * Mobile-first responsive design
+> * Smooth hover effects on cards
+> * Clean typography
+>
+> **Technical constraints:**
+>
+> * No external libraries or frameworks
+> * No backend
+> * Use **dummy JSON data** inside JavaScript for pandals
+> * Code should be **well-commented**
+>
+> **Optional enhancements (if possible):**
+>
+> * Crowd status color coding
+> * Simple dark/light mode toggle
+> * Smooth fade or slide animations using CSS
+>
+> Output **three separate files**:
+>
+> * `index.html`
+> * `style.css`
+> * `script.js`
+>
+> Keep the code beginner-friendly, structured, and scalable for future features like booking or live crowd updates.
+
+---
+
+### Why this prompt works
+
+* Clear scope (no Flutter, no backend confusion)
+* Matches **Utsav Zone’s actual vision**
+* Prevents Blackbox from using React or random libraries
+* Scalable for future versions (V2, V3)
+
+If you want:
+
+* a **more advanced prompt (map logic, crowd simulation)**
+* a **school-project-safe prompt**
+* or a **production-grade version**
+
+tell me **which level** and I’ll refine it.
